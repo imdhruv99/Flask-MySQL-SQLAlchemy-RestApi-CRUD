@@ -1,6 +1,7 @@
 # Flask-RestApi-CRUD-SQLAlchemy
 
 - This is simple implementation of Restful APIs in Flask and SQLAlchemy
+- [Read Blog for better understanding](https://medium.com/@dpdhruvprajapati/constructing-restful-crud-apis-using-flask-and-sqlalchemy-with-understandings-of-http-methods-part-237058fe9443)
 
 # Installation
 
